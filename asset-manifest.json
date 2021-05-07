@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.969ac919.chunk.css",
-    "main.js": "./static/js/main.7dd7f0e8.chunk.js",
+    "main.css": "./static/css/main.d300e405.chunk.css",
+    "main.js": "./static/js/main.534605ed.chunk.js",
     "runtime~main.js": "./static/js/runtime~main.b60c0dc2.js",
     "static/js/2.f0d0b683.chunk.js": "./static/js/2.f0d0b683.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.812c2d13b90121484b1ba361b9e3d6c3.js": "./precache-manifest.812c2d13b90121484b1ba361b9e3d6c3.js",
+    "precache-manifest.ba793da10a010e1cb17ad19cdd041aea.js": "./precache-manifest.ba793da10a010e1cb17ad19cdd041aea.js",
     "service-worker.js": "./service-worker.js",
     "static/media/angular.svg": "./static/media/angular.3f2d405b.svg",
     "static/media/axios.png": "./static/media/axios.19e458fd.png",
