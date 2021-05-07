@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de216664cfc1184eee6dbac5ca9035cf",
+    "revision": "4bfceb3a08ea9de9faa7fb461a4e4ac6",
     "url": "./index.html"
   },
   {
-    "revision": "69d57c149c3ce5ec849b",
+    "revision": "9b41dd9bf1d26fa96ef1",
     "url": "./static/css/main.33973db6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.f0d0b683.chunk.js"
   },
   {
-    "revision": "69d57c149c3ce5ec849b",
-    "url": "./static/js/main.12441775.chunk.js"
+    "revision": "9b41dd9bf1d26fa96ef1",
+    "url": "./static/js/main.53fbf1e9.chunk.js"
   },
   {
     "revision": "9135cfbf05639377df13",
@@ -56,6 +56,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/lerna.7bde8f91.png"
   },
   {
+    "revision": "c2d1c7a57374459552a3d3ff3482c696",
+    "url": "./static/media/logic-flow.c2d1c7a5.png"
+  },
+  {
+    "revision": "f92197d84b4cb352a48b0dc92d5da775",
+    "url": "./static/media/mpx.f92197d8.png"
+  },
+  {
     "revision": "4cd9aad3a54d2880cd285f55ae296c1f",
     "url": "./static/media/mysql.4cd9aad3.png"
   },
@@ -74,6 +82,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ce45e38599df78b20b59ef87d8698587",
     "url": "./static/media/prepack.ce45e385.png"
+  },
+  {
+    "revision": "b54202ab6cf2225662fb41e7e0de26de",
+    "url": "./static/media/qiankun.b54202ab.png"
+  },
+  {
+    "revision": "fb77232b77f97eee610175672a6b8b1e",
+    "url": "./static/media/rax.fb77232b.png"
   },
   {
     "revision": "7b3f2689c1de84b315324d8c03fcbab6",
