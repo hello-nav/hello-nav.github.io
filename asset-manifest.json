@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.e081f0c2.chunk.css",
-    "main.js": "/static/js/main.1f98eb06.chunk.js",
+    "main.js": "/static/js/main.c82f3eae.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.46b21fbf.js",
     "static/js/2.f0d0b683.chunk.js": "/static/js/2.f0d0b683.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.eed9771bd047f35acb370baf73e5415a.js": "/precache-manifest.eed9771bd047f35acb370baf73e5415a.js",
+    "precache-manifest.3106724fa9c9c0134e043e1971007ec0.js": "/precache-manifest.3106724fa9c9c0134e043e1971007ec0.js",
     "service-worker.js": "/service-worker.js",
     "static/media/angular.svg": "/static/media/angular.3f2d405b.svg",
     "static/media/docusaurus.png": "/static/media/docusaurus.831536c0.png",
