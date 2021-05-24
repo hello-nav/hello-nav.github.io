@@ -1,17 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.e081f0c2.chunk.css",
-    "main.js": "/static/js/main.8fb452d0.chunk.js",
+    "main.js": "/static/js/main.960fe1c6.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.46b21fbf.js",
     "static/js/2.f0d0b683.chunk.js": "/static/js/2.f0d0b683.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.dee692f6ed389089ed82b277da266fe2.js": "/precache-manifest.dee692f6ed389089ed82b277da266fe2.js",
+    "precache-manifest.186312497e46d6e87af5a4bc2c74ddf0.js": "/precache-manifest.186312497e46d6e87af5a4bc2c74ddf0.js",
     "service-worker.js": "/service-worker.js",
     "static/media/angular.svg": "/static/media/angular.3f2d405b.svg",
-    "static/media/docusaurus.png": "/static/media/docusaurus.831536c0.png",
-    "static/media/ember.png": "/static/media/ember.4894b5e8.png",
     "static/media/goober.png": "/static/media/goober.d63d573f.png",
-    "static/media/jenkins.png": "/static/media/jenkins.f2b520f1.png",
+    "static/media/jenkins.png": "/static/media/jenkins.d41014a4.png",
     "static/media/lerna.png": "/static/media/lerna.89be4a45.png",
     "static/media/nyantocat.gif": "/static/media/nyantocat.2d8ee815.gif",
     "static/media/tinypng.png": "/static/media/tinypng.b48b281e.png"
