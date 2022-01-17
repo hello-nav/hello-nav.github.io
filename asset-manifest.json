@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc29ec61.chunk.css",
-    "main.js": "/static/js/main.85397ec0.chunk.js",
+    "main.css": "/static/css/main.ef4a5f80.chunk.css",
+    "main.js": "/static/js/main.b8ca34f1.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.e65c79a7.js",
     "static/js/2.41ab8be3.chunk.js": "/static/js/2.41ab8be3.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.374c4e4f5bbdadbe1de5dc35f071d0dd.js": "/precache-manifest.374c4e4f5bbdadbe1de5dc35f071d0dd.js",
+    "precache-manifest.347b81c0822355f11324670e07b94400.js": "/precache-manifest.347b81c0822355f11324670e07b94400.js",
     "service-worker.js": "/service-worker.js",
     "static/media/angular.svg": "/static/media/angular.3f2d405b.svg",
     "static/media/index.css": "/static/media/bi.5b504fca.ttf",
     "static/media/bootcdn.png": "/static/media/bootcdn.ac019c02.png",
     "static/media/cdnjs.png": "/static/media/cdnjs.b89eb90e.png",
+    "static/media/emotion.png": "/static/media/emotion.e989c98c.png",
     "static/media/goober.png": "/static/media/goober.d63d573f.png",
     "static/media/jenkins.png": "/static/media/jenkins.d41014a4.png",
     "static/media/lerna.png": "/static/media/lerna.89be4a45.png",
     "static/media/meta.png": "/static/media/meta.6975f71a.png",
     "static/media/nyantocat.gif": "/static/media/nyantocat.2d8ee815.gif",
     "static/media/quasar.png": "/static/media/quasar.37b25bb5.png",
+    "static/media/styled-components.png": "/static/media/styled-components.40be499c.png",
     "static/media/tinypng.png": "/static/media/tinypng.b48b281e.png"
   }
 }

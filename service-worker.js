@@ -15,7 +15,7 @@ importScripts("/workbox-v4.3.1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/workbox-v4.3.1"});
 
 importScripts(
-  "/precache-manifest.374c4e4f5bbdadbe1de5dc35f071d0dd.js"
+  "/precache-manifest.347b81c0822355f11324670e07b94400.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hello-nav-cache"});
