@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.ef4a5f80.chunk.css",
-    "main.js": "/static/js/main.2c7fd1e6.chunk.js",
+    "main.js": "/static/js/main.f01d3368.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.e65c79a7.js",
     "static/js/2.41ab8be3.chunk.js": "/static/js/2.41ab8be3.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.18e5dbe37fce1fa7a1491c9cc50ef70c.js": "/precache-manifest.18e5dbe37fce1fa7a1491c9cc50ef70c.js",
+    "precache-manifest.2e12f5382f2844caabecab16bf16c05c.js": "/precache-manifest.2e12f5382f2844caabecab16bf16c05c.js",
     "service-worker.js": "/service-worker.js",
     "static/media/angular.svg": "/static/media/angular.3f2d405b.svg",
     "static/media/index.css": "/static/media/bi.5b504fca.ttf",
@@ -20,6 +20,7 @@
     "static/media/quasar.png": "/static/media/quasar.37b25bb5.png",
     "static/media/styled-components.png": "/static/media/styled-components.40be499c.png",
     "static/media/swc.png": "/static/media/swc.5304af2e.png",
+    "static/media/tauri.png": "/static/media/tauri.f7042384.png",
     "static/media/tinypng.png": "/static/media/tinypng.b48b281e.png",
     "static/media/zx.png": "/static/media/zx.fbf20d6a.png"
   }
