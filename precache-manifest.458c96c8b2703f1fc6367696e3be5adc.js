@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "606d2bbf45d7bc41f5271621be47c233",
+    "revision": "bdc35c5f89f4e412898476297c34593e",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.41ab8be3.chunk.js"
   },
   {
-    "revision": "c4047c09ce13af2289d5",
-    "url": "/static/js/main.af260da9.chunk.js"
+    "revision": "09dbc6d8041a2c544035",
+    "url": "/static/js/main.ae2ebee2.chunk.js"
   },
   {
     "revision": "e2672bc719536a650c13",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cdnjs.b89eb90e.png"
   },
   {
+    "revision": "b7538922bb33c29c46ae8aaab400b130",
+    "url": "/static/media/css-tricks.b7538922.png"
+  },
+  {
     "revision": "d63d573fd54e88d8ea20dae571f1bdde",
     "url": "/static/media/goober.d63d573f.png"
   },
@@ -58,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37b25bb5f0466cd4cda4b8169f21a50d",
     "url": "/static/media/quasar.37b25bb5.png"
+  },
+  {
+    "revision": "3e8191e3916a2dd44b6804f0746eb1fa",
+    "url": "/static/media/smashing-magazine.3e8191e3.png"
   },
   {
     "revision": "b48b281ea9e16c6da6e5a9e9eb586d4f",
