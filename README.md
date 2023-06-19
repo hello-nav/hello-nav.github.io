@@ -2,7 +2,7 @@
 
 ## Hello Nav' website
 
-[https://hello-nav.netlify.app](https://hello-nav.netlify.app)
+[https://hello-nav.github.io](https://hello-nav.github.io)
 
 ## 🗺 Features
 
